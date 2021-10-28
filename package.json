@@ -1,0 +1,25 @@
+{
+  "name": "coderclasepf4",
+  "version": "1.0.0",
+  "description": "Proyecto clase 16 proyecto final 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "desarrollo",
+    "web",
+    "programacion",
+    "coderhouse",
+    "emprende",
+    "emprendimiento",
+    "paginas",
+    "web"
+  ],
+  "author": "JABC",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0"
+  }
+}
